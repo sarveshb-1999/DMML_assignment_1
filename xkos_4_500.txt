@@ -1,1 +1,0 @@
-['democraticleaning', 'generally', 'bushcheney', 'kerryedwards']['generally', 'polled', 'bushcheney', 'kerryedwards']['generally', 'bushcheney', 'pollster', 'kerryedwards']['generally', 'ward', 'bushcheney', 'kerryedwards']['democraticleaning', 'polled', 'primaryfree', 'kerryedwards']
